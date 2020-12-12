@@ -2,7 +2,7 @@
 
 #bgr
 {
-	background-image:url('./Images/bgr.png');
+	background-image:url('images/bgr.png');
 	background-repeat:space;
 	z-index:-900;
 }
@@ -34,7 +34,7 @@
 	height:100px;
 	margin:auto;
 	margin-top:5px;
-	background-image:url('./Images/Opng.png');
+	background-image:url('images/Opng.png');
 	background-repeat:round;
 	background-color:#CCC;
 }
