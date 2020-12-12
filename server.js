@@ -40,6 +40,6 @@ server.listen(port,(err)=>{
     if(err){
         console.log(`Error: ${err}`)
     }else{
-        console.log(`Server listening at port ${port} ..`);
+        console.log(`Server listening at port ${port} ...`);
     }
 });
